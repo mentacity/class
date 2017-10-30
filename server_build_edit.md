@@ -18,7 +18,10 @@
 ### Create a New GitHub Repository Called lamp_server_setup
 - Make sure the repository is created empty
 - Copy the url of the new GitHub repo
-   1. 
+  1. 
+  2. 
+  3.
+  4. 
 ---
 
 ### Connect Your Local Repo To Your GitHub Repo
