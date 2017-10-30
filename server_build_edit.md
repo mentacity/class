@@ -24,6 +24,8 @@
   4. 
 ---
 
+### This is a DEMO heading
+
 ### Connect Your Local Repo To Your GitHub Repo
 - git remote add origin http://pathto/lamp_server_setup.git
 - git push -u origin master
