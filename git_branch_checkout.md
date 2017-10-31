@@ -17,8 +17,9 @@ git push -u (First attempt I had to use: git push -u origin my_branch)
 git branch
 git status
 git add (* for all or the specific filename)
+git status
 git commit -m "whatever commit message you choose"
-git push -u origin master
+git push -u
 
 ### What this should do, is add the code to my new branch 
 With github I can look and see if the change is on the remote
