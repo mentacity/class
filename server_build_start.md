@@ -94,4 +94,11 @@
 - Test your WordPress and Encryption by browsing to https://your_ip_address
 ---
 
+### Part VIII
+- Set up your web directory as a git repository
+- Clone the repository to your local drive (its your wordpress files)
+- In the cloned directory, add a new file called about
+- Commit and push to your server
+---
+
 
